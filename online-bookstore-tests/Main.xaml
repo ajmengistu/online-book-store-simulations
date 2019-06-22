@@ -804,7 +804,7 @@
                                   <av:Size x:Key="ShapeSize">200,51</av:Size>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <ui:WriteCsvFile Encoding="{x:Null}" AddHeaders="True" DataTable="[dtOrdersBooks]" Delimitator="Comma" DisplayName="Write CSV" FilePath="book_orders.csv" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="WriteCsvFile_3" />
+                              <ui:WriteCsvFile Encoding="{x:Null}" AddHeaders="True" DataTable="[dtOrdersBooks]" Delimitator="Comma" DisplayName="Write CSV Ordered Books" FilePath="book_orders.csv" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="WriteCsvFile_3" />
                             </FlowStep>
                           </FlowStep.Next>
                         </FlowStep>
