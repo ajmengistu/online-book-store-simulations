@@ -125,7 +125,7 @@
                   <av:PointCollection x:Key="ConnectorLocation">300,295.5 300,314.5</av:PointCollection>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ui:ForEachRow CurrentIndex="{x:Null}" DataTable="[dtNewCustomers]" DisplayName="Register Each New Customer" sap:VirtualizedContainerService.HintSize="488,2226" sap2010:WorkflowViewState.IdRef="ForEachRow_2">
+              <ui:ForEachRow CurrentIndex="{x:Null}" DataTable="[dtNewCustomers]" DisplayName="Register Each New Customer" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="ForEachRow_2">
                 <ui:ForEachRow.Body>
                   <ActivityAction x:TypeArguments="sd:DataRow">
                     <ActivityAction.Argument>
@@ -290,7 +290,7 @@
                           <av:Size x:Key="ShapeSize">200,51</av:Size>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <ui:ForEachRow CurrentIndex="{x:Null}" DataTable="[dtNewCustomers]" DisplayName="For Each Row" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="ForEachRow_3">
+                      <ui:ForEachRow CurrentIndex="{x:Null}" DataTable="[dtNewCustomers]" DisplayName="Login Each New Customer" sap:VirtualizedContainerService.HintSize="488,1412" sap2010:WorkflowViewState.IdRef="ForEachRow_3">
                         <ui:ForEachRow.Body>
                           <ActivityAction x:TypeArguments="sd:DataRow">
                             <ActivityAction.Argument>
