@@ -907,9 +907,9 @@
     "restore": {
       "projectUniqueName": "RegisterUsers",
       "projectName": "RegisterUsers",
-      "projectPath": "C:\\Users\\Aderajew Mengistu\\Desktop\\UiPath\\online-bookstore-simulations\\register-new-users\\.local",
+      "projectPath": "C:\\Users\\Aderajew Mengistu\\Desktop\\UiPath\\online-bookstore-simulations\\online-bookstore-tests\\.local",
       "packagesPath": "C:\\Users\\Aderajew Mengistu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aderajew Mengistu\\Desktop\\UiPath\\online-bookstore-simulations\\register-new-users\\.local"
+      "outputPath": "C:\\Users\\Aderajew Mengistu\\Desktop\\UiPath\\online-bookstore-simulations\\online-bookstore-tests\\.local"
     },
     "frameworks": {
       "net461": {
